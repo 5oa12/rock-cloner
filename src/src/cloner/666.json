@@ -1,0 +1,4527 @@
+{
+    "name": "THE WEAST RP [MTA:SA]",
+    "verificationLevel": "LOW",
+    "explicitContentFilter": "ALL_MEMBERS",
+    "defaultMessageNotifications": "ONLY_MENTIONS",
+    "afk": null,
+    "widget": {
+        "channel": null
+    },
+    "channels": {
+        "categories": [
+            {
+                "name": ". RULES .",
+                "permissions": [
+                    {
+                        "roleName": "Youtuber",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♚ | Co Owner",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "King Of Credit Donate",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Devlopper",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | MTA  Staff",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | V.Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66560",
+                        "deny": "410116561501009"
+                    },
+                    {
+                        "roleName": "♛ | CEO",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♜ | Discord President",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Credit Donate Plus",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Private MemberShip",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Bot",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | MANAGAMENT",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Vip Plus MemberShip",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Friend",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Credit Donate",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✦ | MTA Support",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Network Seniors",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "VIP MemberShip",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Chat Supervisor",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | Dev.The Weast",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Member",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Booster",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📌〡قوانين・الديسكورد",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". RULES .",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "Mapper Team",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Network Seniors",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "「 تـحـذيـر اخير」↫「📛」",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Member",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Bot",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✦ | MTA Support",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Mapper Manager",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Private MemberShip",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♛ | MANAGAMENT",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "VIP MemberShip",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Lead Admin",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Booster",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Credit Donate",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "♛ | Dev.The Weast",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Vip Plus MemberShip",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | MTA  Staff",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Credit Donate Plus",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Chat Supervisor",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "「 تـحـذيـر ثاني」↫「📛」",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "King Of Credit Donate",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Youtuber",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Friend",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "71454029183057"
+                            },
+                            {
+                                "roleName": "Vice President",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Developer Team",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Developer Manager",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Devlopper",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "「 تـحـذيـر اول」↫「📛」",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": ". main .",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🛫〡مرحبا・بــك",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". main .",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🥇〡معلومات・عــنا",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". main .",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📢〡الاخــبــار",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". main .",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "✨〡المسابقات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". main .",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💎〡بوستات・السيرفر",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". main .",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔐〡تحديثات・السيرفر",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". main .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "⛔〡القائمة・السوداء",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". main .",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "2048"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💰〡التبرعات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". main .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "2048",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "❕〡الإشعارات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". main .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "264256"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": ". MTA SA .",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "1024",
+                        "deny": "2048"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📃〡الـتـقديم",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". MTA SA .",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "66560",
+                                "deny": "534723885121"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👷🏻〡وظائف・الخادم",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". MTA SA .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎆〡الفعاليات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". MTA SA .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚘〡سيارات・الخادم",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". MTA SA .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🚩〡اخبار・السيناريوهات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". MTA SA .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "✪ | Network Seniors",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎬〡اليوتيوب",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". MTA SA .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957124096"
+                            },
+                            {
+                                "roleName": "✪ | Network Seniors",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": ". GENERAL .",
+                "permissions": [
+                    {
+                        "roleName": "======================",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1048576"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "💬〡الشات・العام",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". GENERAL .",
+                        "topic": "**(( قبل اي شي تذكر قوله تعالى : (( مَا يَلْفِظُ مِنْ قَوْلٍ إِلَّا لَدَيْهِ رَقِيبٌ عَتِيدٌ**",
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1048576"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🤖〡شات・الاوامر",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". GENERAL .",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "👾〡العب",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". GENERAL .",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Lead Admin",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📷〡ميـديـا",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". GENERAL .",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Network Seniors",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📝〡الأقتراحات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 60,
+                        "parent": ". GENERAL .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377958172672"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎉〡الـفل",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". GENERAL .",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377958173696"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📜〡الأعماق",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". GENERAL .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♚ | Community Owner",
+                                "allow": "274878045184",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♚ | Co Owner",
+                                "allow": "138240",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "98304",
+                                "deny": "70368745371728"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🕌〡أجــر",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ". GENERAL .",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1048576"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": ".TICKET.",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "📨〡・ticket",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ".TICKET.",
+                        "topic": "- يمكنك فتح تكت من هنا\n- You can open ticket here.",
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "65536",
+                                "deny": "71454029184081"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🎫〡التذاكر",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": ".TICKET.",
+                        "topic": "",
+                        "permissions": [
+                            {
+                                "roleName": "✪ | Network Seniors",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Booster",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♛ | Founder",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "✦ | MTA Support",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "VIP MemberShip",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | MTA  Staff",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "President",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♛ | Dev.The Weast",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♛ | MANAGAMENT",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Partner",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "DESIGNER",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Friend",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Private MemberShip",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Devlopper",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Mapper Manager",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "King Of Credit Donate",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Vip Plus MemberShip",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♛ | V.Founder",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Youtuber",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Credit Donate Plus",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "274877908992"
+                            },
+                            {
+                                "roleName": "♜ | Discord Staff",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Chat Supervisor",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Credit Donate",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": ".faction.",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1048576"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "👑 الديوان الملكي (𝐋𝐎𝐒 𝐒𝐀𝐍𝐓𝐎𝐒 𝐆𝐎𝐕𝐄𝐑𝐍𝐌𝐄𝐍𝐓)",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": ".faction.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "339348385431377"
+                            },
+                            {
+                                "roleName": "أفراد الحكومة",
+                                "allow": "1117184",
+                                "deny": "339348384314193"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🪂 وزارة الدفاع (𝐌𝐈𝐍𝐈𝐒𝐓𝐑𝐘 𝐎𝐅 𝐃𝐄𝐅𝐄𝐍𝐒𝐄)",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": ".faction.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "339348385431377"
+                            },
+                            {
+                                "roleName": "أفراد وزارة الدفاع",
+                                "allow": "1117184",
+                                "deny": "57873407603537"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🕵 المباحث الفدرالية (𝐋𝐎𝐒 𝐒𝐀𝐍𝐓𝐎𝐒 𝐅𝐁𝐈)",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": ".faction.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "339348385431377"
+                            },
+                            {
+                                "roleName": "أفراد المباحث الفدرالية",
+                                "allow": "1117184",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "👮 وزارة الداخلية (𝐌𝐈𝐍𝐈𝐒𝐓𝐑𝐘 𝐎𝐅 𝐈𝐍𝐓𝐄𝐑𝐈𝐎𝐑)",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": ".faction.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "339348385431377"
+                            },
+                            {
+                                "roleName": "أفرد وزارة الداخلية",
+                                "allow": "1117184",
+                                "deny": "339210945360721"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "⭐ وزارة العدل (𝐌𝐈𝐍𝐈𝐒𝐓𝐑𝐘 𝐎𝐅 𝐉𝐔𝐒𝐓𝐈𝐂𝐄)",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": ".faction.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "334950334725968"
+                            },
+                            {
+                                "roleName": "أفراد وزارة العدل",
+                                "allow": "1117184",
+                                "deny": "339348384314193"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🩸 وزارة الصحة (𝐌𝐈𝐍𝐈𝐒𝐓𝐑𝐘 𝐎𝐅 𝐇𝐄𝐀𝐋𝐓𝐇)",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": ".faction.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1117184"
+                            },
+                            {
+                                "roleName": "أفراد وزارة الصحة",
+                                "allow": "1051648",
+                                "deny": "339348382282065"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🎥 وزارة الصحافة الاعلام (𝐌𝐄𝐃𝐈𝐀 𝐀𝐔𝐓𝐇𝐎𝐑𝐈𝐓𝐘)",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": ".faction.",
+                        "permissions": [
+                            {
+                                "roleName": "أفراد وزارة الاعلام و الصحافة",
+                                "allow": "1117184",
+                                "deny": "339348384314193"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "806423568"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🔧 شركة السحب و الصيانة (𝐓𝐎𝐖𝐈𝐍𝐆 𝐀𝐍𝐃 𝐌𝐀𝐈𝐍𝐓𝐄𝐍𝐀𝐍)",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": ".faction.",
+                        "permissions": [
+                            {
+                                "roleName": "أفراد شركة السحب و الصيانة",
+                                "allow": "1117184",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1024",
+                                "deny": "1116160"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🚁 وزارة الدفاع الجوي (𝐀𝐈𝐑 𝐅𝐎𝐑𝐂𝐄𝐒)",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": ".faction.",
+                        "permissions": [
+                            {
+                                "roleName": "أفراد الدفاع الجوي",
+                                "allow": "1117184",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1117184"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "🚔 قوات التدخل السريع (SWAT)",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": ".faction.",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1117184"
+                            },
+                            {
+                                "roleName": "أفراد السوات",
+                                "allow": "1117184",
+                                "deny": "0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": ". 𝗚𝗥𝗢𝗨𝗣 .",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1048576"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "𝗚𝗥𝗢𝗨𝗣 ¹",
+                        "bitrate": 64000,
+                        "userLimit": 10,
+                        "parent": ". 𝗚𝗥𝗢𝗨𝗣 .",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "1048576",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "𝗚𝗥𝗢𝗨𝗣 ²",
+                        "bitrate": 64000,
+                        "userLimit": 10,
+                        "parent": ". 𝗚𝗥𝗢𝗨𝗣 .",
+                        "permissions": [
+                            {
+                                "roleName": "Vice President",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "President",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Network Seniors",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "𝗚𝗥𝗢𝗨𝗣 ³",
+                        "bitrate": 64000,
+                        "userLimit": 10,
+                        "parent": ". 𝗚𝗥𝗢𝗨𝗣 .",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "𝗚𝗥𝗢𝗨𝗣 ⁴",
+                        "bitrate": 64000,
+                        "userLimit": 10,
+                        "parent": ". 𝗚𝗥𝗢𝗨𝗣 .",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "𝗚𝗥𝗢𝗨𝗣 ⁵",
+                        "bitrate": 64000,
+                        "userLimit": 10,
+                        "parent": ". 𝗚𝗥𝗢𝗨𝗣 .",
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "0"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Temporary Channels",
+                "permissions": [],
+                "children": [
+                    {
+                        "type": "GUILD_VOICE",
+                        "name": "إنشاء روم مؤقت",
+                        "bitrate": 64000,
+                        "userLimit": 0,
+                        "parent": "Temporary Channels",
+                        "permissions": []
+                    }
+                ]
+            },
+            {
+                "name": "MTA STAFFS",
+                "permissions": [
+                    {
+                        "roleName": "======================",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Senior Admin",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Lead Admin",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Network Seniors",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Mapper Team",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | MTA  Staff",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Developer Manager",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Support L.2",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "Developer Team",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Mapper Manager",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "President",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Moderator",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Ticket Manager",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Vice President",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✦ | MTA Support",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Chat Supervisor",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Super Admin",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Devlopper",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Director",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Support L.1",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Admin",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Support L.Max",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Head  Admin",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "رابط-سيرفر-الادارة",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "MTA STAFFS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "✪ | Devlopper",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | MTA  Staff",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♛ | Dev.The Weast",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Network Seniors",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Chat Supervisor",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♛ | MANAGAMENT",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377957125120"
+                            },
+                            {
+                                "roleName": "✦ | MTA Support",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "الـمسـؤوليـات",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "MTA STAFFS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "✪ | MTA  Staff",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Moderator",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "Vice President",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Lead Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Super Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Developer Manager",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Network Seniors",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Support L.1",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "President",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "2048",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "✪ | Devlopper",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Developer Team",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Mapper Team",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Head  Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✦ | MTA Support",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Senior Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Support L.Max",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Chat Supervisor",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Director",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Mapper Manager",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ticket Manager",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Support L.2",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "إعـلانـات-الإدارة-الـعـلـيـا",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "MTA STAFFS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "======================",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "شـات-الإدارة-العليا",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "MTA STAFFS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1048576",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "إعـلانـات-الإدارة-الـعـامـة",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "MTA STAFFS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Developer Manager",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Support L.Max",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Devlopper",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Lead Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Mapper Manager",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "♛ | MANAGAMENT",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♛ | Dev.The Weast",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♜ | Discord Staff",
+                                "allow": "1024",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "President",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Network Seniors",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Director",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✦ | MTA Support",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Vice President",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Moderator",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "377958173760"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Developer Team",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | MTA  Staff",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Ticket Manager",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Senior Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Chat Supervisor",
+                                "allow": "1049600",
+                                "deny": "2048"
+                            },
+                            {
+                                "roleName": "Support L.2",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Super Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Support L.1",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Mapper Team",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Head  Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "شـات-الإدارة-العامة",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "MTA STAFFS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "♛ | Dev.The Weast",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "President",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Director",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Mapper Team",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Developer Team",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♛ | MANAGAMENT",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Support L.2",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Network Seniors",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ticket Manager",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Developer Manager",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✦ | MTA Support",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Vice President",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Moderator",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Lead Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Senior Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Support L.Max",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♜ | Discord Staff",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Support L.1",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Chat Supervisor",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1049600"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "Mapper Manager",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Super Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Head  Admin",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | MTA  Staff",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "======================",
+                                "allow": "1049600",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Devlopper",
+                                "allow": "1049600",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "Ticket Open",
+                "permissions": [
+                    {
+                        "roleName": "✪ | Chat Supervisor",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Ticket Acc",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "✪ | Network Seniors",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | MANAGAMENT",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Ticket Manager",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "استفسارات عامة",
+                "permissions": [
+                    {
+                        "roleName": "✪ | Chat Supervisor",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | Dev.The Weast",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Devlopper",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Developer Manager",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "President",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Vice President",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | V.Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Head  Admin",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Mapper Team",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Lead Admin",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Mapper Manager",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♜ | Discord Staff",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | MANAGAMENT",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Developer Team",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | MTA  Staff",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "✪ | Network Seniors",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "claimed-0152",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "استفسارات عامة",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Ticket Manager",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "✪ | Network Seniors",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♜ | Discord President",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Ticket Acc",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "♜ | V.Discord President",
+                                "allow": "0",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "مشكلة بيوت / مركبات",
+                "permissions": [
+                    {
+                        "roleName": "✪ | MTA  Staff",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Mapper Manager",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Devlopper",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | V.Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "♛ | MANAGAMENT",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♜ | Discord Staff",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Chat Supervisor",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Network Seniors",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | Dev.The Weast",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "مشاكل تسجيل دخول",
+                "permissions": [
+                    {
+                        "roleName": "♛ | MANAGAMENT",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | V.Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | MTA  Staff",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | Dev.The Weast",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Mapper Manager",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Devlopper",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "Developer Manager",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♜ | Discord Staff",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Chat Supervisor",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Network Seniors",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "شكوى على اداري",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "♛ | Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | MANAGAMENT",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | V.Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | Dev.The Weast",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "تقديم داري",
+                "permissions": [
+                    {
+                        "roleName": "♛ | Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | Dev.The Weast",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | MANAGAMENT",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Network Seniors",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "♛ | V.Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": []
+            },
+            {
+                "name": "Ticket Close",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "تقديم-ادارة",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ticket Close",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "تم-التسكير",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ticket Close",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "closed-0007",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ticket Close",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "closed-0008",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ticket Close",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "closed-0009",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ticket Close",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "closed-0010",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ticket Close",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "closed-0011",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ticket Close",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "closed-0013",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "Ticket Close",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            },
+            {
+                "name": "LOGS",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "Log Acc",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ],
+                "children": [
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔐・║log・server",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "LOGS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Log Acc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔐・║log・ban",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "LOGS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Log Acc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔐・║log・timeout",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "LOGS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Log Acc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔐・║log・unban",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "LOGS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Log Acc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔐・║log・message",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "LOGS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Log Acc",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔐・║log・roles",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "LOGS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Log Acc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔐・║log・channel",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "LOGS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Log Acc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔐・║log・voice",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "LOGS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "Log Acc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔐・║log・out",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "LOGS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "Log Acc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔐・║log・welcome",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "LOGS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            },
+                            {
+                                "roleName": "Log Acc",
+                                "allow": "1024",
+                                "deny": "0"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "🔐・║log・inv",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "LOGS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Log Acc",
+                                "allow": "1024",
+                                "deny": "0"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    },
+                    {
+                        "type": "GUILD_TEXT",
+                        "name": "emoji",
+                        "nsfw": false,
+                        "rateLimitPerUser": 0,
+                        "parent": "LOGS",
+                        "topic": null,
+                        "permissions": [
+                            {
+                                "roleName": "@everyone",
+                                "allow": "0",
+                                "deny": "1024"
+                            },
+                            {
+                                "roleName": "Muted",
+                                "allow": "0",
+                                "deny": "377959221312"
+                            }
+                        ],
+                        "messages": [],
+                        "isNews": false,
+                        "threads": []
+                    }
+                ]
+            }
+        ],
+        "others": [
+            {
+                "type": "GUILD_VOICE",
+                "name": "Dev Team",
+                "bitrate": 64000,
+                "userLimit": 0,
+                "parent": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1049600"
+                    },
+                    {
+                        "roleName": "✪ | Devlopper",
+                        "allow": "1049600",
+                        "deny": "0"
+                    }
+                ]
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "moderator-only",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "1024"
+                    },
+                    {
+                        "roleName": "Muted",
+                        "allow": "0",
+                        "deny": "377959221312"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "mexican-mods",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": null,
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "377957124096"
+                    },
+                    {
+                        "roleName": "Muted",
+                        "allow": "0",
+                        "deny": "377959221312"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "📯〡ذا・ويســت",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": "",
+                "permissions": [
+                    {
+                        "roleName": "Muted",
+                        "allow": "0",
+                        "deny": "377959221312"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "0",
+                        "deny": "377957124160"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "📖〡قصـة・ويست",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": "",
+                "permissions": [
+                    {
+                        "roleName": "Credit Donate",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Network Seniors",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | MANAGAMENT",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "President",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Mapper Manager",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Private MemberShip",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | Dev.The Weast",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Pic",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Lead Admin",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Friend",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Super Admin",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Vice President",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Chat Supervisor",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Vip Plus MemberShip",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": ".",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♚ | Co Owner",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Muted",
+                        "allow": "0",
+                        "deny": "377959221312"
+                    },
+                    {
+                        "roleName": "Support L.Max",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Support L.2",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | V.Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Bot",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Booster",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | Devlopper",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✦ | MTA Support",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | Founder",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Developer Team",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Head  Admin",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Credit Donate Plus",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Mapper Team",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "THE WEAST SYSTEM",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Director",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Member",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Nick",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Developer Manager",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "✪ | MTA  Staff",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Moderator",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Youtuber",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "VIP MemberShip",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♛ | CEO",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Senior Admin",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66560",
+                        "deny": "71454030231633"
+                    },
+                    {
+                        "roleName": "Ticket Manager",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "..",
+                        "allow": "0",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Support L.1",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "King Of Credit Donate",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "======================",
+                        "allow": "1024",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "♜ | Discord President",
+                        "allow": "1049600",
+                        "deny": "0"
+                    },
+                    {
+                        "roleName": "Admin",
+                        "allow": "1024",
+                        "deny": "0"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            },
+            {
+                "type": "GUILD_TEXT",
+                "name": "✨〡السيزون・الثاني",
+                "nsfw": false,
+                "rateLimitPerUser": 0,
+                "parent": null,
+                "topic": "",
+                "permissions": [
+                    {
+                        "roleName": "@everyone",
+                        "allow": "66560",
+                        "deny": "71454029183057"
+                    },
+                    {
+                        "roleName": "Muted",
+                        "allow": "0",
+                        "deny": "377959221312"
+                    }
+                ],
+                "messages": [],
+                "isNews": false,
+                "threads": []
+            }
+        ]
+    },
+    "roles": [
+        {
+            "name": "..",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "76961518452735",
+            "mentionable": true,
+            "position": 113,
+            "isEveryone": false
+        },
+        {
+            "name": ".",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 112,
+            "isEveryone": false
+        },
+        {
+            "name": "♛ | Dev.The Weast",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 110,
+            "isEveryone": false
+        },
+        {
+            "name": "♚ | Community Owner",
+            "color": "#040004",
+            "hoist": true,
+            "permissions": "420013441810423",
+            "mentionable": false,
+            "position": 109,
+            "isEveryone": false
+        },
+        {
+            "name": "♚ | Co Owner",
+            "color": "#0a0808",
+            "hoist": true,
+            "permissions": "420013441810431",
+            "mentionable": false,
+            "position": 108,
+            "isEveryone": false
+        },
+        {
+            "name": ".",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 107,
+            "isEveryone": false
+        },
+        {
+            "name": "♛ | Founder",
+            "color": "#d80000",
+            "hoist": true,
+            "permissions": "120933125717825",
+            "mentionable": false,
+            "position": 106,
+            "isEveryone": false
+        },
+        {
+            "name": "♛ | V.Founder",
+            "color": "#d80000",
+            "hoist": true,
+            "permissions": "129613757394625",
+            "mentionable": false,
+            "position": 105,
+            "isEveryone": false
+        },
+        {
+            "name": "♛ | CEO",
+            "color": "#ffeb98",
+            "hoist": true,
+            "permissions": "71880806984264",
+            "mentionable": false,
+            "position": 104,
+            "isEveryone": false
+        },
+        {
+            "name": "♛ | MANAGAMENT",
+            "color": "#5c0808",
+            "hoist": true,
+            "permissions": "75866553427777",
+            "mentionable": false,
+            "position": 103,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 102,
+            "isEveryone": false
+        },
+        {
+            "name": "♜ | Discord President",
+            "color": "#14b1e9",
+            "hoist": true,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 101,
+            "isEveryone": false
+        },
+        {
+            "name": "♜ | V.Discord President",
+            "color": "#18dcb9",
+            "hoist": true,
+            "permissions": "1237164761088",
+            "mentionable": false,
+            "position": 100,
+            "isEveryone": false
+        },
+        {
+            "name": "♜ | Discord Staff",
+            "color": "#2a9681",
+            "hoist": true,
+            "permissions": "1099591327744",
+            "mentionable": false,
+            "position": 99,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 98,
+            "isEveryone": false
+        },
+        {
+            "name": "✪ | Network Seniors",
+            "color": "#a9a265",
+            "hoist": true,
+            "permissions": "71468457166465",
+            "mentionable": false,
+            "position": 97,
+            "isEveryone": false
+        },
+        {
+            "name": "President",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 96,
+            "isEveryone": false
+        },
+        {
+            "name": "Vice President",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 95,
+            "isEveryone": false
+        },
+        {
+            "name": "Head  Admin",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 94,
+            "isEveryone": false
+        },
+        {
+            "name": "Lead Admin",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 93,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 92,
+            "isEveryone": false
+        },
+        {
+            "name": "Developer Manager",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 91,
+            "isEveryone": false
+        },
+        {
+            "name": "✪ | Devlopper",
+            "color": "#4a5aba",
+            "hoist": true,
+            "permissions": "1024",
+            "mentionable": false,
+            "position": 90,
+            "isEveryone": false
+        },
+        {
+            "name": "Developer Team",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 89,
+            "isEveryone": false
+        },
+        {
+            "name": "Mapper Manager",
+            "color": "#750036",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 88,
+            "isEveryone": false
+        },
+        {
+            "name": "Mapper Team",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 87,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 86,
+            "isEveryone": false
+        },
+        {
+            "name": "✪ | Chat Supervisor",
+            "color": "#79259c",
+            "hoist": true,
+            "permissions": "230687744",
+            "mentionable": false,
+            "position": 85,
+            "isEveryone": false
+        },
+        {
+            "name": "Ticket Manager",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 84,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 83,
+            "isEveryone": false
+        },
+        {
+            "name": "✪ | MTA  Staff",
+            "color": "#41729f",
+            "hoist": true,
+            "permissions": "1024",
+            "mentionable": false,
+            "position": 82,
+            "isEveryone": false
+        },
+        {
+            "name": "Super Admin",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 81,
+            "isEveryone": false
+        },
+        {
+            "name": "Senior Admin",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 80,
+            "isEveryone": false
+        },
+        {
+            "name": "Director",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 79,
+            "isEveryone": false
+        },
+        {
+            "name": "Admin",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 78,
+            "isEveryone": false
+        },
+        {
+            "name": "Moderator",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 77,
+            "isEveryone": false
+        },
+        {
+            "name": "Trial Admin",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 76,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 75,
+            "isEveryone": false
+        },
+        {
+            "name": "✦ | MTA Support",
+            "color": "#18bf69",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 74,
+            "isEveryone": false
+        },
+        {
+            "name": "Support L.Max",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 73,
+            "isEveryone": false
+        },
+        {
+            "name": "Support L.2",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 72,
+            "isEveryone": false
+        },
+        {
+            "name": "Support L.1",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 71,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 70,
+            "isEveryone": false
+        },
+        {
+            "name": "DESIGNER",
+            "color": "#3a5088",
+            "hoist": true,
+            "permissions": "137640542208",
+            "mentionable": false,
+            "position": 69,
+            "isEveryone": false
+        },
+        {
+            "name": "Partner",
+            "color": "#1844b5",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 68,
+            "isEveryone": false
+        },
+        {
+            "name": "Youtuber",
+            "color": "#da4343",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 67,
+            "isEveryone": false
+        },
+        {
+            "name": "Vip Plus MemberShip",
+            "color": "#5e4876",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 66,
+            "isEveryone": false
+        },
+        {
+            "name": "VIP MemberShip",
+            "color": "#516baf",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 65,
+            "isEveryone": false
+        },
+        {
+            "name": "Private MemberShip",
+            "color": "#3c6858",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 64,
+            "isEveryone": false
+        },
+        {
+            "name": "King Of Credit Donate",
+            "color": "#af9ae9",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 62,
+            "isEveryone": false
+        },
+        {
+            "name": "Credit Donate Plus",
+            "color": "#428298",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 61,
+            "isEveryone": false
+        },
+        {
+            "name": "Credit Donate",
+            "color": "#3e8256",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 60,
+            "isEveryone": false
+        },
+        {
+            "name": "Friend",
+            "color": "#7c3b3b",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 59,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 58,
+            "isEveryone": false
+        },
+        {
+            "name": "Nick",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "67108864",
+            "mentionable": false,
+            "position": 57,
+            "isEveryone": false
+        },
+        {
+            "name": "Pic",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "49152",
+            "mentionable": false,
+            "position": 56,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 55,
+            "isEveryone": false
+        },
+        {
+            "name": "THE WEAST BOT",
+            "color": "#76079d",
+            "hoist": true,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 54,
+            "isEveryone": false
+        },
+        {
+            "name": "THE WEAST SUGGESTION",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "8",
+            "mentionable": false,
+            "position": 53,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 52,
+            "isEveryone": false
+        },
+        {
+            "name": "أفراد الحكومة",
+            "color": "#06660c",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 51,
+            "isEveryone": false
+        },
+        {
+            "name": "أفراد وزارة الدفاع",
+            "color": "#b4b858",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 50,
+            "isEveryone": false
+        },
+        {
+            "name": "أفراد المباحث الفدرالية",
+            "color": "#360ba8",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 49,
+            "isEveryone": false
+        },
+        {
+            "name": "أفرد وزارة الداخلية",
+            "color": "#3498db",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 48,
+            "isEveryone": false
+        },
+        {
+            "name": "أفراد وزارة العدل",
+            "color": "#040c3b",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 47,
+            "isEveryone": false
+        },
+        {
+            "name": "أفراد وزارة الصحة",
+            "color": "#e42020",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 46,
+            "isEveryone": false
+        },
+        {
+            "name": "أفراد وزارة الاعلام و الصحافة",
+            "color": "#077e5f",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 45,
+            "isEveryone": false
+        },
+        {
+            "name": "أفراد شركة السحب و الصيانة",
+            "color": "#16e02c",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 44,
+            "isEveryone": false
+        },
+        {
+            "name": "أفراد الدفاع الجوي",
+            "color": "#775607",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 43,
+            "isEveryone": false
+        },
+        {
+            "name": "أفراد السوات",
+            "color": "#071ee9",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 42,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 41,
+            "isEveryone": false
+        },
+        {
+            "name": "Member",
+            "color": "#f0e8e8",
+            "hoist": true,
+            "permissions": "2098689",
+            "mentionable": false,
+            "position": 40,
+            "isEveryone": false
+        },
+        {
+            "name": "Bot",
+            "color": "#654e53",
+            "hoist": true,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 39,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 38,
+            "isEveryone": false
+        },
+        {
+            "name": "「 تـحـذيـر اخير」↫「📛」",
+            "color": "#fe0000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 37,
+            "isEveryone": false
+        },
+        {
+            "name": "「 تـحـذيـر ثاني」↫「📛」",
+            "color": "#ff0000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 36,
+            "isEveryone": false
+        },
+        {
+            "name": "「 تـحـذيـر اول」↫「📛」",
+            "color": "#ff0000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 35,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 34,
+            "isEveryone": false
+        },
+        {
+            "name": "The Weast Mta Staff",
+            "color": "#f90505",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 33,
+            "isEveryone": false
+        },
+        {
+            "name": "The Weast Discord Staff",
+            "color": "#f90505",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 32,
+            "isEveryone": false
+        },
+        {
+            "name": "Event Manager",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 31,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 30,
+            "isEveryone": false
+        },
+        {
+            "name": "Admin Manger",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "268435456",
+            "mentionable": false,
+            "position": 29,
+            "isEveryone": false
+        },
+        {
+            "name": "Support Manger",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "268435456",
+            "mentionable": false,
+            "position": 28,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 27,
+            "isEveryone": false
+        },
+        {
+            "name": "Log Acc",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 26,
+            "isEveryone": false
+        },
+        {
+            "name": "Ticket Acc",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 25,
+            "isEveryone": false
+        },
+        {
+            "name": "Gif Acc",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "16384",
+            "mentionable": false,
+            "position": 24,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 23,
+            "isEveryone": false
+        },
+        {
+            "name": "Blacklist  Staff",
+            "color": "#0e0e0e",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 22,
+            "isEveryone": false
+        },
+        {
+            "name": "======================",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 21,
+            "isEveryone": false
+        },
+        {
+            "name": "Muted",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 16,
+            "isEveryone": false
+        },
+        {
+            "name": "إشـعـارات الأخـبـار",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 14,
+            "isEveryone": false
+        },
+        {
+            "name": "إشـعـارات الـمُـسـابـقـات",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 13,
+            "isEveryone": false
+        },
+        {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 12,
+            "isEveryone": false
+        },
+        {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "0",
+            "mentionable": false,
+            "position": 7,
+            "isEveryone": false
+        },
+        {
+            "name": "notification",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "1024",
+            "mentionable": false,
+            "position": 1,
+            "isEveryone": false
+        },
+        {
+            "name": "@everyone",
+            "color": "#000000",
+            "hoist": false,
+            "permissions": "75460532080193",
+            "mentionable": false,
+            "position": 0,
+            "isEveryone": true
+        }
+    ],
+    "bans": [],
+    "emojis": [],
+    "createdTimestamp": 1704481711851,
+    "guildID": "1180979766430543933",
+    "id": "1192907502942027776",
+    "iconURL": "https://cdn.discordapp.com/icons/1180979766430543933/df291cb8ca77424ec1fefa4a0d6880f9.webp",
+    "splashURL": "https://cdn.discordapp.com/splashes/1180979766430543933/5317fb37b3a1cc96b67445473c11bfcd.webp",
+    "bannerURL": "https://cdn.discordapp.com/banners/1180979766430543933/13af8c94fb1cdec5f10e6076e3be9d4a.webp"
+}
